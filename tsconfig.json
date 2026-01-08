@@ -1,1 +1,3 @@
-tsconfig.json
+index.html
+vite.config.ts
+package.json
